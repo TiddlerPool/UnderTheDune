@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0eafe5d7fdf24682807ce95dc2fc35f, type: 3}
+  m_Name: Time Capsule
+  m_EditorClassIdentifier: 
+  ItemID: 1
+  width: 2
+  height: 3
+  Price: 1200
+  UseValue: 0
+  Type: Evidence
+  Detail: A container, made to be easy to find, what's in it?
+  Tradable: 1
+  Usable: 0
+  Discardable: 1
+  ItemIcon: {fileID: 21300000, guid: 6d7be926f69c84f249d25ea4f84f29a7, type: 3}

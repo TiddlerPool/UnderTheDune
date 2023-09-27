@@ -1,0 +1,8 @@
+Type,ID,Character,,Content,JumpTo,Addition,Target
+#,0,Player,,hello,1,,
+#,1,Bob,,hey there,2,,
+&,2,Player,,how about your today,5,,
+&,3,Player,,you looks worry,5,,
+&,4,Player,,uhhh are u ok?,5,,
+#,5,,,fine,6,,
+END,6,,,,,,

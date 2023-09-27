@@ -1,0 +1,15 @@
+#	0	Sofia		"Hello, outsider, you are the researcher that the contractor said."	1		
+#	1	Sofia		"I've been here since setting foot on forbidden ground, reminding people to beware of invisible punishment, is there anything you need to know"	2	 	 
+&	2	Player		What does forbidden land mean?	8		
+&	3	Player		What is the invisible punishment?	10		
+&	4	Player		What's inside the ruins?	13		
+&	5	Player		I think I need to go.	6		
+#	6	Sofia		"ok , be extra careful on the road"	7		
+END	7						
+#	8	Sofia		"In the legend of our ancestors, the mountain full of thorns is a forbidden place, no one can set foot"	9		
+#	9	Sofia		"Such forbidden land empires are distributed throughout the entire territory, but since it has been broken, go in and have a look, and be extra careful"	1		
+#	10	Sofia		"That is the punishment from God, to punish those who keep admonishing trespassing into forbidden places."	11		
+#	11	Sofia		"You can't see him, you just go from feeling tired, to bleeding badly, and eventually the skin on your body peels off."	12		
+#	12	Sofia		"Someone in my clan has suffered this kind of punishment, there is no cure, it is very painful!"	1		
+#	13	Sofia		"No one knows, our people won't go in."	14		
+#	14	Sofia		"Even if it is a trespasser, the patriarch will lock him in the dungeon and let him die."	1		

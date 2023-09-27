@@ -1,0 +1,148 @@
+{
+    "SaveSystem": {
+        "instanceID": 28792
+    },
+    "WorldMachine": {
+        "instanceID": 0
+    },
+    "CurrentMaxHealth": 100.0,
+    "CurrentHealth": 100.0,
+    "CurrentMaxStamina": 100.0,
+    "CurrentStamina": 100.0,
+    "CurrentHunger": 100.0,
+    "CurrentRaditaion": 0.0,
+    "Money": 1200.0,
+    "CurrentMaxResearchValue": 0.0,
+    "CurrentResearchValue": 0.0,
+    "CurrentPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "LastCheckPointPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "Times": 0.0,
+    "Days": 0,
+    "GridItemList_0": [
+        {
+            "itemDataName": "Potion",
+            "type": "Consumables",
+            "itemDataID": 2,
+            "onGridPositionX": 7,
+            "onGridPositionY": 2,
+            "detail": "A potion, can heal you.",
+            "price": 200.0,
+            "useValue": 40.0,
+            "rotated": false,
+            "tradable": true,
+            "usable": true,
+            "discardable": true
+        }
+    ],
+    "GridItemList_1": [
+        {
+            "itemDataName": "Mexihcah Wrap",
+            "type": "Food",
+            "itemDataID": 5,
+            "onGridPositionX": 0,
+            "onGridPositionY": 1,
+            "detail": "Mexihcah Wrap is one of the favorite dishes of the local indigenous people and is said to have a long history. No one can resist this delicacy, not even the battle-hardened soldiers of the Empire.",
+            "price": 60.0,
+            "useValue": 60.0,
+            "rotated": false,
+            "tradable": true,
+            "usable": true,
+            "discardable": true
+        },
+        {
+            "itemDataName": "Military Ration",
+            "type": "Food",
+            "itemDataID": 6,
+            "onGridPositionX": 1,
+            "onGridPositionY": 2,
+            "detail": "Imperial military rations, large enough to feed two men. Normally, civilians don't have access to these military rations, but wandering merchants always bring in these interesting items.",
+            "price": 500.0,
+            "useValue": 100.0,
+            "rotated": false,
+            "tradable": true,
+            "usable": true,
+            "discardable": true
+        },
+        {
+            "itemDataName": "BiteSize Food",
+            "type": "Food",
+            "itemDataID": 4,
+            "onGridPositionX": 1,
+            "onGridPositionY": 1,
+            "detail": "The assembly line production of small dry food, simple raw materials and rough processing, does not talk about how good the taste is but can fill the hunger.",
+            "price": 30.0,
+            "useValue": 25.0,
+            "rotated": false,
+            "tradable": true,
+            "usable": true,
+            "discardable": true
+        }
+    ],
+    "GridItemList_2": [],
+    "GridItemList_3": [
+        {
+            "itemDataName": "PickAxe",
+            "type": "Tool",
+            "itemDataID": 0,
+            "onGridPositionX": 0,
+            "onGridPositionY": 0,
+            "detail": "Multi-functional picks, made by modern craftsmen, can be used to gather a variety of materials",
+            "price": 600.0,
+            "useValue": 0.0,
+            "rotated": false,
+            "tradable": true,
+            "usable": false,
+            "discardable": true
+        }
+    ],
+    "RecordObjectsData": [
+        {
+            "RecordID": 0,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 1,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 2,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 3,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 4,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 5,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 6,
+            "DiscoverDay": "",
+            "isRecorded": false
+        },
+        {
+            "RecordID": 7,
+            "DiscoverDay": "",
+            "isRecorded": false
+        }
+    ]
+}

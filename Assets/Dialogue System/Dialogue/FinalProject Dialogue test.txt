@@ -1,0 +1,14 @@
+#	0	Liberio		"Oh my dear customer, welcome. "	1		
+#	1	Liberio		"If you need anything, just come to Liberio. I'll get it for you, as long as the money's there."	2		
+$	2	Player		"Show me what you are trading."	7		
+&	3	Player		"I need medical service"	8		
+&	4	Player		"I think I need to go."	5		
+#	5	Liberio		"Leaving? Well, take care of yourself and Come back anytime!"	6		
+END	6	Liberio					
+#	7	Liberio		"If it's on the shelf, it's in stock. I trust your judgement."	6		
+#	8	Liberio		"For only $200, you'll feel like you've got a new lease on life."	9		
+&	9	Player	12	"OK"	11	T	200
+&	10	Player		"Forget it..."	13		
+#	11	Liberio		"Leave it all to me. Health is the most important thing."	1		
+#	12	Liberio		"Unfortunately, we don't offer a free service anyway."	1		
+#	13	Liberio		"Health is the key to success, so don't be reluctant to spend money if you're not feeling well."	1		

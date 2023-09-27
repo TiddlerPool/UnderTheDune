@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0eafe5d7fdf24682807ce95dc2fc35f, type: 3}
+  m_Name: BiteSize Food
+  m_EditorClassIdentifier: 
+  ItemID: 4
+  width: 1
+  height: 1
+  Price: 30
+  UseValue: 25
+  Type: Food
+  Detail: The assembly line production of small dry food, simple raw materials and
+    rough processing, does not talk about how good the taste is but can fill the
+    hunger.
+  Tradable: 1
+  Usable: 1
+  Discardable: 1
+  ItemIcon: {fileID: 21300000, guid: 88885cc38c7d8490b93fdd5bd1f6d68f, type: 3}

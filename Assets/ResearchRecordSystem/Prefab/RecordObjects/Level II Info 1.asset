@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a37982863cc446f1a39d10b046acb8a, type: 3}
+  m_Name: Level II Info 1
+  m_EditorClassIdentifier: 
+  RecordID: 0
+  Title: Brief text on square cone 01
+  DetailText: DANGER. POISONOUS RADIOACTIVE WASTE BURIED HERE. DO NOT DIG OR DRILL
+    ! HERE BEFORE A.D. 12 000
+  DetailImage: {fileID: 0}
+  Note: This message is ubiquitous around the outer area of the excavation site,
+    they all contain similar information.
+  IsImage: 0

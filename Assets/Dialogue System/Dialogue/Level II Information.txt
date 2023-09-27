@@ -1,0 +1,7 @@
+#	0	Player		The giant stone spikes are encrusted with ancient writings that speak of...	1	
+#	1	Stele		DANGER. POISONOUS RADIOACTIVE WASTE BURIED HERE. DO NOT DIG OR DRlLL !!! HERE BEFORE A.D. 12 000	2	
+&	2	Player	5	Try to record it	4	T
+&	3	Player		Just leave...	6	
+#	4	Player		"After comparing it with the previous records, it seems to be a new discovery of unrecorded content."	6	
+#	5	Player		Compare it to the previous record. It's what's been recorded.	6	
+END	6					

@@ -1,0 +1,25 @@
+#	0	Contractor		"Hi, nice to meet you"	1		
+#	1	Contractor		"If you have any questions about my hiring you to investigate this site, just ask me."	2	 	 
+&	2	Player		What happened here?	9		
+&	3	Player		Is there anything suspicious	14		
+&	4	Player		Is there anyone here?	18		
+&	5	Player		How many days do I have?	22		
+&	6	Player		I think I need to go.	7		
+#	7	Contractor		"Ok, be careful on the road."	8		
+END	8						
+#	9	Contractor		Our company contracted the land last year and started construction last month.	10		
+#	10	Contractor		"However, after only one week of working, many employees fell ill, and the doctors did not know the reason.."	11		
+#	11	Contractor		"They seem to have discovered an ancient ruin that was huge, and since then more and more people have gotten sick."	12		
+#	12	Contractor		The locals say the ruins are taboo and they are cursed for trespassing	13		
+#	13	Contractor		"I'm from the north, I don't believe this, so I asked you to investigate."	1		
+#	14	Contractor		"Workers said that besides many ruined stones, there are also many suspicious mounds in this area"	15		
+#	15	Contractor		I heard that someone dug them up and found some things left by ancient people.	16		
+#	16	Contractor		"If you know the little brother called Liberio, the big iron box next to him was found in other ruins"	17		
+#	17	Contractor		"I heard that there are ancient characters engraved on many stone tablets, but no one can understand them, so I have to rely on professional people like you to see them."	1		
+#	18	Contractor		"From here, head west over this hill and you'll come to a small market."	19		
+#	19	Contractor		The man in yellow is called Liberio. He's a wandering merchant. You can exchange goods with him or request medical attention.	20		
+#	20	Contractor		"There should be a native girl called Sofia, she is a resident nearby, the legend of their Mexicah tribe says that this ruin is very dangerous, you can ask her."	21		
+#	21	Contractor		"There's also a red postbox in the marketplace that you can use to send us the evidence you've found, but I'll pay the postage, of course."	1		
+#	22	Contractor		"I applied to the shareholders for a two-month suspension of work. Although I am the boss, there is no way that our company is not decided by me alone."	23		
+#	23	Contractor		"Once the two months are up, other shareholders will send workers over, you have to hurry up"	24		
+#	24	Contractor		"I've heard that a golden disc was once found in Liberio's case, it's like a record, it might contain a lot of information, please do find it."	1		
